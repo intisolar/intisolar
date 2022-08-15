@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intisolar
 - 👀 I’m interested in coding, music, astrology/tarot and cats!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on building APIs in general and games
 - 📫 How to reach me: insolgar@gmail.com
 
